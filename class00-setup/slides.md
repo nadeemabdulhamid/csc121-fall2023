@@ -83,21 +83,24 @@ Nadeem Abdul Hamid - Fall 2023
 ---
 ## Course Software
 
-### Eclipse IDE
-[Download](http://eclipse.org/downloads/) and install Eclipse IDE *and* OpenJDK
+### [Eclipse IDE](http://eclipse.org/downloads/)
+Install Eclipse IDE *and* OpenJDK
 
-Videos
 - [Installing Eclipse IDE](https://youtu.be/A3wRGdhu55Y) (4:18)
 - [Eclipse - first steps](https://youtu.be/nlxNO7Ntj_w) (5:37)
+
+### [Github Desktop](https://desktop.github.com/)
+
+-  Use to synchronize notes and code from Github repository
 
 
 ---
 ## Reminder
 - This class is not (just) about Java. It’s about how to design programs.
-    -- Java is our tool as we study the principles of computation from an object-oriented perspective
-    -- We will cover a subset of features of Java
-    -- The concepts we do cover are applicable to many object-oriented languages
-    -- The curriculum and topics in this course follow the state of the art in the real world, w.r.t. software design and development
+    - Java is our tool as we study the principles of computation from an object-oriented perspective
+    - We will cover a subset of features of Java
+    - The concepts we do cover are applicable to many object-oriented languages
+    - The curriculum and topics in this course follow the state of the art in the real world, w.r.t. software design and development
 
 
 ---
@@ -114,7 +117,7 @@ Videos
 ---
 ## The Design Recipe
 <style scoped>li li  { font-size: 80%; }</style>
-
+ 
 1. Problem Analysis & Data Definition/Examples
     - What kinds of data are involved? Create data definitions. Construct examples according to the data definitions, just to make sure they work.
 
@@ -127,7 +130,7 @@ Videos
 ---
 ## The Design Recipe
 <style scoped>li li  { font-size: 80%; }</style>
-
+ 
 4. Function Template
     - Does the data definition (of the main argument) mention clauses? If so, use a *cond* with as many cases as there are clauses in the data definition.
     - How can you distinguish these kinds of data with conditions involving the main parameter?
@@ -137,7 +140,7 @@ Videos
 ---
 ## The Design Recipe
 <style scoped>li li  { font-size: 70%; }</style>
-
+ 
 5. Function Definition (Let’s code!)
     - Can you deal with the simple *cond* cases? Your examples should cover those cases directly.
     - What do the expressions in the recursive cases compute? Use the purpose statement of the function to figure out what the recursive function application computes.
@@ -150,8 +153,8 @@ Videos
 ---
 ## Data Definitions
 <style scoped>li { font-size: 80%; }</style>
-
-> Computers do not work with information: they work with data, which is a representation of the information relevant for the computation.
+ 
+> Computers do not work with *information*: they work with *data*, which is a *representation* of the information relevant for the *computation*.
 
 - With any computation/process, you must first understand the information that is provided, and then how it is represented as data that a program manipulates
 - We’ll review what we already know about data definitions in Racket and then look at how we represent the same information as data in a different language (Java)
