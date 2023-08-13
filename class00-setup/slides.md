@@ -61,6 +61,16 @@ Nadeem Abdul Hamid - Fall 2023
 
 
 ---
+## Textbooks
+
+- [How to Design Classes (HtDC)](https://felleisen.org/matthias/HtDC/htdc.pdf) (online pdf) 
+    Reading to follow along with lecture topics, first 7 weeks
+
+- [Java Precisely, Third Edition](https://mitpress.mit.edu/9780262529075/java-precisely/) 
+    Concise reference for the Java programming language
+
+
+---
 ## Course Policies
 
 - Pair Programming 
