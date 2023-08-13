@@ -70,7 +70,7 @@ Given the following Racket data definition
 - Step 1: Set up the class definition:
     - Keyword <code>class</code>, followed by the name (of the structure), followed by <code>{ … }</code>
 - Step 2: Declare the fields and their types
-    - List each field name, preceded by its type. 
+    - List each field name, preceded by its type. (Java checks for consistency of types to identify code errors before you run your program.)
     - These "field declarations" should be the first lines inside the body { … } of the class definition.
     - Note: In Java, each statement other than a class definition (and other multiline constructs) ends in a semicolon
 - Step 3: Add a constructor
@@ -99,6 +99,18 @@ class Book {
   }
 }
 ```
+
+
+---
+## Naming Conventions in Java
+
+- **Class** names start with uppercase letter.
+    - Class name should match the file name exactly with a ".java" extension
+
+- **Field**, **parameter**, **variable** names start with lowercase letter.
+
+- Use <code>camelCase</code> for multi-word names, use <code>isBlahBlah</code> as a convention for Boolean fields
+    - Java has more restrictions on identifiers than Racket: Letters, numbers, underscore (no question mark ? or hyphen - allowed)
 
 
 ---
@@ -222,4 +234,6 @@ search for "UMLet - UML Tool for Fast UML Diagrams"
 Material in course slides is adapted from:
 - Jenny Walter, Vasser College
 - Viera Proulx et al., Northeastern University
-- Glynis Hamel et al., Worcester Polytechnic Institute
+    https://course.ccs.neu.edu/cs2510/index.html
+- Kathi Fisler, Glynis Hamel et al., Worcester Polytechnic Institute
+    https://web.cs.wpi.edu/~cs2102/d17/Lectures/migrate.html
