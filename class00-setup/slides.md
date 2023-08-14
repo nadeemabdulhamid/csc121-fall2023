@@ -54,10 +54,10 @@ Nadeem Abdul Hamid - Fall 2023
 ## Components
 
 - 10% Class attendance/participation
-- 40% Programming assignments (daily)
+- 50% Programming assignments (daily)
 - 10% Semester project (group)
 - 10% Quizzes (~ bi-weekly)
-- 10% Exams (midterm + final)
+- 20% Exams (midterm + final)
 
 
 ---
