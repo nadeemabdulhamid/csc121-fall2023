@@ -29,6 +29,39 @@ Nadeem Abdul Hamid - Fall 2023
 
 
 ---
+
+<img height="50%" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Agc_view.jpg" alt="Apollo computer and DSKY">
+
+<img align=right height="100%" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Apollo_11_Lunar_Lander_-_5927_NASA.jpg" alt="Apollo 11 lunar lander">
+
+Apollo 11 Lunar Module *Eagle*, 1969
+
+
+<!--
+
+Take yourself back in time to the early 1960s. None of us have been born (even the professor). The US and Russia have started the space race, but have not yet gotten to the moon. Microchips have just been invented. They replace large vacuum tubes (that used to be use in fat-backed TVs and monitors). The Apollo-mission computers are among the first to use the new microchips (which allow computers to start becoming smaller than this classroom). The amount of memory on the Apollo-mission computers is less than what you need to store 5% of a picture taken with a modern smartphone.
+(The Apollo computer had less than 80K bytes of memory: https://en.wikipedia.org/wiki/Apollo_ Guidance_Computer)
+
+And they navigated to and landed on the moon with that!
+
+Okay, neat history, but why are we starting CSC121 this way?
+
+Because if you want to understand a new technology or a new idea, you need to know the context of what was going on when it arose. Historians know this, but it’s something we often overlook in CS. That’s a pity, because knowing the context provides a lot of the texture in any field, and some ideas about why the new thing was designed the way it was.
+
+In the mid 1960s, a group of computer scientists in Norway were trying to figure out how to use computers to tackle other new problems as well. They wanted to create software that could simulate physical systems that responded to events (like people pushing elevator buttons, or trains arriving at signal crossings). The programming languages of the day weren’t proving up to the task. So these scientists, Kristen Nygaard and Ole-Johan Dahl (with help from some others) invented a new language called SIMULA. It was the first so-called “object-oriented” language. They won the Turing award (the “Nobel prize” of Computer Science) for this work.
+
+And this semester, we are going to teach you object-oriented programming using Java, which descends from SIMULA.
+
+But we aren’t here just to teach you object-oriented programming. We’re here to teach you fundamental principles of computer science, including data structures, analysis, software design, and testing. All of which are driven by needs to build computing systems that are efficient, robust, and maintainable. We start this course tipping our hats to the early pioneers of computing who did amazing things with limited technology, as we help prepare all of you to do amazing things with powerful technology.
+
+Because the designers of SIMULA did one of the most fundamental tasks in computing: they tried to tackle a new kind of problem, realized they couldn’t express the problems cleanly, and built a new language to make their lives easier. One of the most powerful and beautiful things about computing is that we get to define how our systems work. We aren’t like the physical scientists, stuck to working with what nature gave us. We build our tools, our systems, our tools (sometimes, those tools cause new problems—that’s another important part of the story).
+
+To help prepare you to do that, we need to expose you to different ways of expressing problems. That's part of our curriculum here at Berry!
+-->
+
+
+
+---
 ## Course Overview
 
 - Canvas site: http://cs.berry.edu/csc121
@@ -106,12 +139,15 @@ Install Eclipse IDE *and* OpenJDK
 
 ---
 ## Reminder
+<style scoped>li, p  { font-size: 90%; }</style>
+
 - This class is not (just) about Java. It’s about how to design programs.
     - Java is our tool as we study the principles of computation from an object-oriented perspective
     - We will cover a subset of features of Java
     - The concepts we do cover are applicable to many object-oriented languages
     - The curriculum and topics in this course follow the state of the art in the real world, w.r.t. software design and development
 
+Those with prior Java experience likely learned different ways to do some of what we cover here. Hold tight – we’ll explain why we are doing things differently as we go.
 
 ---
 ## The Design Recipe

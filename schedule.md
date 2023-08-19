@@ -5,22 +5,22 @@
 ### Week 1
 **Mon Aug 21:** Welcome; Tools setup
 
-**Wed Aug 23:** Data definintions: Simple classes, diagrams
+**Wed Aug 23:**<sub>1</sub> Data definintions: Simple classes, diagrams
 > **Reading**: Sections 1 & 2
 
-**Fri Aug 25:** Methods, expressions, conditionals
+**Fri Aug 25:**<sub>2</sub> Methods, expressions, conditionals
 > Sections 8, 9, 10
 
 
 ---
 ### Week 2
-**Mon Aug 28:** Containment, object diagrams
+**Mon Aug 28:**<sub>3</sub> Containment, object diagrams
 > Sections 3 & 11
 
-**Wed Aug 30:** Unions, interfaces
+**Wed Aug 30:**<sub>4</sub> Unions, interfaces
 > Sections 4 & 6
 
-**Fri Sep 1:** Methods for unions
+**Fri Sep 1:**<sub>5</sub> Methods for unions
 > Sections 12 & 14
 
 

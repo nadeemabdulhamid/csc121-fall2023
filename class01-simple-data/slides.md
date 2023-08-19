@@ -45,8 +45,16 @@ At the end of this lecture you should
         - Another type that we will see is char for single character symbols (written between ' ' )
 
 
+
 ---
-## Classes: Compound Data (§2)
+## Compound Data : Classes (§2)
+
+In  Java, if you want a kind of data that isn’t something simple like a number, string, or boolean, you create a ***class***.
+
+Classes let you specify *compound data*, which is data that has different components (such as a phone contact having both a name and a phone number).
+
+---
+## Classes: Example
 
 Given the following Racket data definition
 

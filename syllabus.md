@@ -139,7 +139,7 @@ Students are expected to have read carefully and understood the rules governing 
 As a general rule, if you do not understand what you are handing in, something is probably wrong. If you have given somebody some code simply so that it can be used in that person's assignment, you are probably cheating. Please don't do it.
 
 **The use of Internet q&a sites or generative AI tools to complete assignments is prohibited for this course.** These have the potential to be useful for experienced developers and/or niche tasks. However, just as using PFD while trying to learn to swim is counterproductive, detrimental, and even dangerous, relying on such tools will impede and prolong the process of your learning the material that this course covers. As noted [in this Harvard University report](https://teaching.cornell.edu/generative-artificial-intelligence/cu-committee-report-generative-artificial-intelligence-1), "In an introductory programming course, ... GAI code generation is ***actively harmful to student learning***."
-> If anyone is found to be using ChatGPT or similar tools to generate code for this course, without express permission or direction to do so, they will be withdrawn administratively from the course.
+> If anyone is found to be using ChatGPT or similar tools to generate code solutions for assignments in this course, without express permission or direction to do so, they will be withdrawn administratively from the course.
 
 
 ## Attendance Policy
@@ -154,15 +154,20 @@ The Academic Success Center provides accessibility resources, including academic
 
 ## Electronic Devices
 
-Please don't use cell phones, pagers, etc. in class. Do not use computers for other than course activities during class time. Texting, instant messaging, Facebook, Twitter, emailing, and similar activities during class are inappropriate and distracting to everyone.
+Please don't use cell phones, pagers, etc. in class. Do not use computers for other than course activities during class time. Texting, instant messaging, emailing, social media'ing, and similar activities during class are inappropriate and distracting to everyone. Be respectful.
 
 
 ## Schedule of Class Sessions
 
-A detailed schedule for the semester (subject to change) will be [maintained separately](schedule.md).
+A detailed schedule for the semester (subject to change) is [available separately](schedule.md).
+
+
+## Acknowledgements
+
+The ideas and material for this course are drawn and built on substantial amount of work and content prepared by [Kathi Fisler](https://cs.brown.edu/~kfisler/) and others for CS 2102 (Object-Oriented Design Concepts) at Worcester Polytechnic Institute; [Viera Proulx](https://www.ccs.neu.edu/home/vkp/), [Benjamin Lerner](https://www.ccs.neu.edu/home/blerner), and others for CS 2510 (Fundamentals of Computer Science 2) at Northeastern University; and Jennifer Walter, Vasser College.
+
 
 <hr>
 
-<small>*Note: All information, schedules, and policies in this document are subject to change at the instructor's discretion. The latest version of this syllabus will always be available on the online course website.
-*</small>
+<small>Note: All information, schedules, and policies in this document are subject to change at the instructor's discretion. The latest version of this syllabus will always be available on the online course website.</small>
 
