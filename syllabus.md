@@ -31,7 +31,7 @@
 
 - Canvas course site: http://cs.berry.edu/csc121. 
     > It is your responsibility to check the web site for this course regularly (i.e. daily) throughout the semester, as it will be regularly updated with announcements, lecture notes, source code, assignments, etc.
-- [Eclipse IDE and Java OpenJDK](http://eclipse.org/downloads/)
+- [Java OpenJDK](https://adoptium.net/) (install first) and [Eclipse IDE](http://eclipse.org/downloads/)
 - [Github Desktop](https://desktop.github.com/)
 
 
