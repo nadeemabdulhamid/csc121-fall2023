@@ -7,7 +7,7 @@
     <dt>Instructor:</dt>
     <dd>Nadeem Abdul Hamid</dd>
     <dt>Contact:</dt>
-    <dd><a href="mailto:nhamid@berry.edu">nhamid@berry.edu</a> • <a href="https://discord.gg/MjGFSG6ydA">@nadeemabdulhamid</a> • <tel>706.368.5632</tel></dd>
+    <dd><a href="mailto:nhamid@berry.edu">nhamid@berry.edu</a> • <a href="https://discord.gg/8wjNeTHjYW">@nadeemabdulhamid</a> • <tel>706.368.5632</tel></dd>
     <dt>Student Hours:</dt>
     <dd>Mondays: 10am-12pm; 1-3pm<br>Wednesdays: 10am-12pm; 1-5pm<br>or by appointment.
 </dl>
