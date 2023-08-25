@@ -6,7 +6,7 @@ paginate: false
 
 
 ---
-# Lecture 0 - Welcome (back)!
+# Lecture 0 - Welcome (Back)!
 CSC 121 - Object Oriented Program Design
 Nadeem Abdul Hamid - Fall 2023
 

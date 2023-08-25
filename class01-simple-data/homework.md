@@ -1,6 +1,8 @@
 # Homework 1 - Simple Data Definitions in Java
 
-Generally speaking, you will code all your homework assignments in Eclipse. Create a separate "Java Project" your Eclipse workspace for each assignment (name them homework01, homework02, etc.) To submit an assignment, right-click on the "src" folder of the project; choose "Show In --> System Explorer". This should open up to the "src' directory/folder in Windows File Explorer/Mac OS Finder. Go into the "src", select all the relevant Java files and upload/copy them to your shared submission directory.
+Generally speaking, you will code all your homework assignments in Eclipse. Create a separate "Java Project" your Eclipse workspace for each assignment (name them as specified at the top of each assignment). To submit an assignment, right-click on the "src" folder of the project; choose "Show In --> System Explorer". This should open up to the "src' directory/folder in Windows File Explorer/Mac OS Finder. Go into the "src", select all the relevant Java files and upload/copy them to your shared submission directory.
+
+For this assignment, create a project named `hw01-simple-classes` in Eclipse.
 
 For this assignment, create a project named `hw01-simple-classes`.
 
