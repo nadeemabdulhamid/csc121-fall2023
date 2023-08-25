@@ -2,13 +2,14 @@
 
 Generally speaking, you will code all your homework assignments in Eclipse. Create a separate "Java Project" your Eclipse workspace for each assignment (name them homework01, homework02, etc.) To submit an assignment, right-click on the "src" folder of the project; choose "Show In --> System Explorer". This should open up to the "src' directory/folder in Windows File Explorer/Mac OS Finder. Go into the "src", select all the relevant Java files and upload/copy them to your shared submission directory.
 
+For this assignment, create a project named `hw01-simple-classes`.
 
 ## Tasks
 
 1. Create a class that captures *students*. Each student has a first name, last name, class year, and major. Create two examples of students.
 
 ---
-2. Create a class that captures *planets*. Each planet has a name, a distance from the sun, and its gravity relative to Earth’s gravity. For distance and gravity, use the type double which captures real numbers. As examples, make instances for Earth and your favorite non-earth planet.
+2. Create a class that captures *planets*. Each planet has a name, a distance from the sun, and its gravity relative to Earth’s gravity. For distance and gravity, use the type `double` which captures real numbers. As examples, make instances for Earth and your favorite non-earth planet.
 
 ---
 3. Translate the class diagram below into a class definition. Create instances of the class as examples.
@@ -30,7 +31,7 @@ Generally speaking, you will code all your homework assignments in Eclipse. Crea
         String source;
         String quality;
         
-        Image(int width, int height, String quality) {
+        Image(double width, double height, String quality) {
             this.height = height;
             this.width = width;
             this.quality = quality;
