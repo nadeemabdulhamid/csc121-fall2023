@@ -4,7 +4,7 @@
 - Remember to create separate `xyzTest` classes for examples/JUnit tests for each task.
 
 ---
-1. In the `Planet` class, add a method `convertWeight` that takes the weight of an object on earth (as a number of type `double`) and produces the corresponding weight on that planet. Since the class has the planet’s gravity relative to earth’s, you just need to multiply the given weight by the relative gravity to get the answer for this method.
+1. In the `Planet` class, write out a method *template* after the constructor. Then, add a method `convertWeight` that takes the weight of an object on earth (as a number of type `double`) and produces the corresponding weight on that planet. Since the class has the planet’s gravity relative to earth’s, you just need to multiply the given weight by the relative gravity to get the answer for this method.
 
 
 ---

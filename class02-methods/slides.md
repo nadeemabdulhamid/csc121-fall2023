@@ -178,13 +178,13 @@ House cape = new House("Cape", 4000, "12 Timberline Dr", 400000);
 
 - We follow the Design Recipe (**DR**):
 
-    - Write down a signature, purpose comment, and header for the method
+    - Write down a signature, purpose comment, and stub for the method
         - In Java, the signature is actual code (not a comment, like in Racket/Python). It is called the **method signature**.
 
 
 
 --- 
-## Signature, Purpose, Header
+## Signature, Purpose, Stub
 <style scoped>ul { font-size: 80%; }</style>
 
 Goes inside the `House` class (somewhere below the constructor)
@@ -192,7 +192,7 @@ Goes inside the `House` class (somewhere below the constructor)
 ```
   /** to compute the cost per sq foot of this house  
       (in dollars) */
-  int costPerSqFt() { ...  this   ... }
+  int costPerSqFt() { return 0; }
 ```
 
 
@@ -200,6 +200,7 @@ Goes inside the `House` class (somewhere below the constructor)
     - We never have to include the implicit `this` parameter in the list of a method’s parameters.
 - We describe the purpose in terms of `this` object.
 - The result produced by the method is an `int`.
+  - Use a `return` statement to produce any value of the correct result type.
 
 
 
