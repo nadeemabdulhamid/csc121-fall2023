@@ -373,6 +373,10 @@ Statements are either a `return` statement, or another `if`/`else` statement.
 ---
 ## Code examples for this lecture
 
-In the Github repo:
+In the Github repo [code for this lecture](code/):
     - `House`
     - `Book`
+
+- Note about `assertEquals`: unlike, `check-expect`, Java does not compare user-defined objects (compound data) for "equality" based on the contents of their fields
+  - Have to define "equality" -- we will see how later
+  - Meantime, use `toString` method to compare object contents
