@@ -205,11 +205,9 @@ Goes inside the `House` class (somewhere below the constructor)
 
 
 ---
-<div style="float: right; width: 50%; font-size: 70%;">
-* DIFFERENT SYNTAX THAN WHAT IS IN THE TEXTBOOK *
-</div>
-
+<style scoped>ul { font-size: 90%; }</style>
 ## Examples/Unit Tests
+- *(DIFFERENT SYNTAX THAN WHAT IS IN THE TEXTBOOK)*
 
 - We add examples to our `HouseTest` class, formulated using `assertEquals` method calls
     - Each set of examples/unit tests for a method should go in its own method named `testMethodName` in the Test class, with an `@Test` annotation on the line before.
@@ -242,6 +240,7 @@ Recall from CSC120: the template for a function that consumes a structure has se
 
 ---
 ## Template in Java
+<style scoped>ul { font-size: 90%; }</style>
 
 - Each instance of the `House` class consists of four pieces of data: `kind`, `area`, `address`, `price`
 - In Java, we access ("select") an object's fields using dot notation:     ```object . field```
@@ -254,7 +253,6 @@ Recall from CSC120: the template for a function that consumes a structure has se
     ... this.address ...     -- String
     ... this.price ...       -- int
   }
-
 ```
 
 
