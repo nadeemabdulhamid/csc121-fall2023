@@ -1,5 +1,7 @@
 # Homework 4 - Unions ; Interfaces
 
+Name your project `hw04-unions`.
+
 1. *[How to Design Classes](https://felleisen.org/matthias/HtDC/htdc.pdf)*, Exercise 4.5 (page 35). Use the UMLet plugin in Eclipse to draw a class diagram and export it as a PDF file which you can then upload.
 
     Put all your interface and class definitions in a single file named `Media.java` and examples in `MediaTest.java`.
