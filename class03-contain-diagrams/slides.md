@@ -203,6 +203,7 @@ assertEquals(true,  mf.sameName("MF"));
 
 ---
 ## Adding to the Book template
+<style scoped>code { font-size: 60%; }</style>
 
 ```
     public boolean writtenBy(String author){
@@ -265,4 +266,5 @@ In general:
 ## Code examples for this lecture
 
 In the Github repo [code for this lecture](code/):
-
+- [Bookstore.java](code/Bookstore.java)
+- [BookTest.java](code/BookTest.java)

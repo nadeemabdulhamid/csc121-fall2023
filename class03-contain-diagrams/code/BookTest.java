@@ -6,9 +6,9 @@ class BookTest {
     Author ebw = new Author("White", 1920);
     Author mf = new Author("MF", 1970);
 
-    Book oms = new Book("Old Man and the Sea", this.eh, 10, 'F');
-    Book eos = new Book("Elements of Style", this.ebw, 20, 'N');
-    Book htdp = new Book("HtDP", this.mf, 60, 'T');
+    Book oms = new Book("Old Man and the Sea", eh, 10, 'F');
+    Book eos = new Book("Elements of Style", ebw, 20, 'N');
+    Book htdp = new Book("HtDP", mf, 60, 'T');
 
     // test the method writtenBy in the class Book
     @Test

@@ -1,5 +1,8 @@
 # Homework 3 - Containment; Object Diagrams
 
+Create an Eclipse project named `hw03-containment`.
+
+---
 
 Create classes that capture *bank customers* and *bank accounts*. A customer has a first and last name. An account has a customer and a balance. In addition to other examples, make objects for two accounts held by the same customer.
 
