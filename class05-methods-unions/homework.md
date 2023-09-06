@@ -2,9 +2,9 @@
 
 Name your project `hw05-methods-unions`.
 
-1. (Exercise 14.6, page 140, *[HtDC](https://felleisen.org/matthias/HtDC/htdc.pdf)*) Recall your data representation of media (images, sounds, texts) for an online gallery from Homework 4. Here is a file with that: [Media.java](code/Media.java) and examples: [MediaTest.java](code/MediaTest.java).
+1. (Exercise 14.6, page 140, *[HtDC](https://felleisen.org/matthias/HtDC/htdc.pdf)*) Recall your data representation of media (images, sounds, texts) for an online gallery from Homework 4. Here is a file with that: [Media.java](code/Media.java) and examples: [MediaTest.java](code/MediaTest.java). 
 
-    Develop the following methods for this program:
+    Develop the following methods for this program. (Add more examples to develop a thorough set of test cases for each method. Do not just write three `assertEquals` tests -- your work will be marked "incomplete".)
 
     - `timeToDownload`, which computes how long it takes to download a file at some given network connection speed (in bytes per second);
     - `smallerThan`, which determines whether the file is smaller than some given maximum size;
