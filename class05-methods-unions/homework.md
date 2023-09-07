@@ -14,7 +14,9 @@ Name your project `hw05-methods-unions`.
 
     Remember your first design step is to develop a data representation for these triangles. Two obvious representation come to mind: one just uses the three points and the other one uses a representation similar to the one for squares in this section. Explore both with examples before you design the rest of the program. Use examples to justify your design choice.
 
-3. (Exercise 12.4) Design an extension for the shapes class hierarchy from the previous task that enables computing the perimeter of a shape. Provide a method named `perimeter` that has no parameters, and returns a `double`.
+   [This video might be helpful](https://berry.zoom.us/rec/share/scqQ1zMzndbN5DQdC6J3JAYm4aWfmimOhsnR9IU8KfyovKuIMcL_2V6GZPXZVtbp.eXjiBeN0pZhJGl9b).
+
+4. (Exercise 12.4) Design an extension for the shapes class hierarchy from the previous task that enables computing the perimeter of a shape. Provide a method named `perimeter` that has no parameters, and returns a `double`.
 
 
 
