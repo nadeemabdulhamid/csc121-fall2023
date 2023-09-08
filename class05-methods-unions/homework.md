@@ -2,9 +2,9 @@
 
 Name your project `hw05-methods-unions`.
 
-1. (Exercise 14.6, page 140, *[HtDC](https://felleisen.org/matthias/HtDC/htdc.pdf)*) Recall your data representation of media (images, sounds, texts) for an online gallery from Homework 4. Here is a file with that: [Media.java](code/Media.java) and examples: [MediaTest.java](code/MediaTest.java).
+1. (Exercise 14.6, page 140, *[HtDC](https://felleisen.org/matthias/HtDC/htdc.pdf)*) Recall your data representation of media (images, sounds, texts) for an online gallery from Homework 4. Here is a file with that: [Media.java](code/Media.java) and examples: [MediaTest.java](code/MediaTest.java). 
 
-    Develop the following methods for this program:
+    Develop the following methods for this program. (Add more examples to develop a thorough set of test cases for each method. Do not just write three `assertEquals` tests -- your work will be marked "incomplete".)
 
     - `timeToDownload`, which computes how long it takes to download a file at some given network connection speed (in bytes per second);
     - `smallerThan`, which determines whether the file is smaller than some given maximum size;
@@ -14,7 +14,9 @@ Name your project `hw05-methods-unions`.
 
     Remember your first design step is to develop a data representation for these triangles. Two obvious representation come to mind: one just uses the three points and the other one uses a representation similar to the one for squares in this section. Explore both with examples before you design the rest of the program. Use examples to justify your design choice.
 
-3. (Exercise 12.4) Design an extension for the shapes class hierarchy from the previous task that enables computing the perimeter of a shape. Provide a method named `perimeter` that has not parameters, and returns a `double`.
+   [This video might be helpful](https://berry.zoom.us/rec/share/scqQ1zMzndbN5DQdC6J3JAYm4aWfmimOhsnR9IU8KfyovKuIMcL_2V6GZPXZVtbp.eXjiBeN0pZhJGl9b).
+
+4. (Exercise 12.4) Design an extension for the shapes class hierarchy from the previous task that enables computing the perimeter of a shape. Provide a method named `perimeter` that has no parameters, and returns a `double`.
 
 
 
