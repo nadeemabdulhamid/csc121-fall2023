@@ -35,7 +35,12 @@ Download the following two files and add them to your Eclipse project. (When you
 - [buggy-banking.jar](./buggy-banking.jar)
 - [BuggyBankingTester.java](./BuggyBankingTester.java)
 
+*Drag onto the 'src' folder in your project:*
+![drag to 'src'](./drag-src.png)
+
 Once they are in your Eclipse project, right-click on the `buggy-banking.jar` file, and from the pop-up menu, choose "Build Path" -> "Add to Build Path". 
+
+![add to build path](./add-to-build.png)
 
 ### Your Job:
 
