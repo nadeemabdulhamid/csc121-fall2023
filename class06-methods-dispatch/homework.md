@@ -18,7 +18,7 @@ Create additional example objects as needed as you develop tests/examples for th
 
 2. Design the method `amtAvailable` for the classes that represent bank accounts that produces the amount that the customer can withdraw from the account. (Read the comment at the top of the provided file for restrictions on withdrawals.)
 
-3. Design the method `moreAvailable` that determines whether one account has more available for withdrawal than another account. (The method should)
+3. Design the method `moreAvailable` that determines whether one account has more available for withdrawal than another account. (The method should have a single parameter of type `IAccount` and produce a `boolean`.)
 
 4. Design the method `withdraw` that produces a new account with the given amount withdrawn. If the amount the customer wants to withdraw exceeds the available amount, no money will be withdrawn.
 
