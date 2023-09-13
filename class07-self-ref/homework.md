@@ -2,6 +2,11 @@
 
 Create an Eclipse project named `hw07-self-ref`.
 
+## Project Milestone
+
+Complete Part 1 of [Creative Project - Milestone 1](https://berry.instructure.com/courses/10589/assignments/169154) by Friday and start working on Part 2.
+
+
 ## Part 1: Mobiles
 
 Define classes for the **Mobiles** example given in the [lecture slides](./slides.md#example-mobiles). (Follow the given class diagram.)
