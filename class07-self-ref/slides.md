@@ -149,3 +149,20 @@ Recall…
             - 10 categories, subcategories, subdivisions
         - Table of contents in a book
 
+
+---
+## Aside: Generating equals/hashcode() methods with Eclipse
+
+For class with no fields use:
+
+```
+@Override
+public boolean equals(Object other) {
+    return other instanceof __SomeClass__;
+}
+
+@Override
+public int hashCode() {
+    return __SomeClass__.class.hashCode();
+}
+```
