@@ -119,7 +119,7 @@ At the end of this lecture you should
         if (this.torque() < 0) {  // leans to left
             return drawComplex(c, p, pMid, pLeft.translate(new Posn(0, +3)), pRight.translate(new Posn(0, -3)));
         } else if (this.torque() > 0) { // leans to right
-            return drawComplex(c, p, pMid,pLeft.translate(new Posn(0, -3)), pRight.translate(new Posn(0, +3)));
+            return drawComplex(c, p, pMid, pLeft.translate(new Posn(0, -3)), pRight.translate(new Posn(0, +3)));
         } else {
             return drawComplex(c, p, pMid, pLeft, pRight);
         }
@@ -138,7 +138,7 @@ At the end of this lecture you should
 ---
 ## Similarities in Classes
 
-- Similarities often arise in unions – especially fields definitions in the variant classes
+- Similarities often arise in unions – especially field definitions in the variant classes
     - Sometimes variants also have identical or very similar method definitions
 
 ![shape hierarchy](./ishape.png)
