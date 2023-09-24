@@ -4,6 +4,14 @@ Create an Eclipse project named `hw10-mutation`.
 
 ## Contacts List
 
+### Tasks summary (Each detailed below):
+
+- Add `equals()` to provided `Person`.
+- Design `changeNumber` for `Person`.
+- Design `contains` and `changeNumber` for `ILoP`.
+- Answer question about `addPerson` for `ILoP`.
+
+### Details
 
 Start with this class definition:
 
@@ -56,17 +64,19 @@ class Person {
 
 
 - Add this file to your Eclipse project: [ILoP.java](./ILoP.java).
-- Design these methods for the ILoP union of classes:
+- Design these methods for the ILoP union of classes. Make sure you develop good test cases. (In the process, you should need to develop a new helper method in `Person`.)
     ```
-    /** determines if given person is in this list */
-    public boolean contains(Person p);
+    /** determines if a person with the given name is in this list */
+    public boolean contains(String n);
 
     /** produces a list with the phone number of the given
         person in this list *changed* to the given number */
     public void changeNumber(String name, int newNumber);
     ```
 
-- Make sure you develop good test cases.
+- In a comment at the top of the `ILoP.java` file answer this question:
+
+    > Consider adding a `void addPerson(String name, int number)` to the `ILoP` classes. Where do you run into a problem? Be very specific. How might we deal with the issue?
 
 
 
