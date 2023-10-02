@@ -66,14 +66,14 @@
 
 **Wed Sep 27:** Mutations and structures
 
-**Fri Sep 29:** Mutation, aliasing, testing
+**Fri Sep 29:** Mutation, aliasing, testing; null
 
 
 ---
 ### Week 7
-**Mon Oct 2:** Imperative linked lists; null; Loops (while)
+**Mon Oct 2:** Arrays; Imperative linked-lists; Loops (while)
 
-**Wed Oct 4:** Mutable data structures
+**Wed Oct 4:** More arrays, imperative linked-lists; loops (for)
 
 **Fri Oct 6:**   --- MIDTERM EXAM ---
 
