@@ -22,8 +22,10 @@ Nadeem Abdul Hamid - Fall 2023
 
 At the end of this lecture you should
 - KNOW:
+    - "Partial arrays"
     - "Parallel arrays"
     - Arrays of objects
+    - For loops
 
 - BE ABLE TO:
     - Write code to process and update parallel arrays and arrays of objects
