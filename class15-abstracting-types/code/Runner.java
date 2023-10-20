@@ -6,11 +6,9 @@
 +---------------------------+
 | String name               |
 | int age                   |
-| boolean male              |
 | int dist                  |
 | int time                  |
 +---------------------------+
-| boolean isMale()          |
 | boolean isOver40()        |
 | boolean isNamed(String)   |
 | int minsPerMile()         |
@@ -21,20 +19,19 @@
 public class Runner {
   String name;
   int age;
-  boolean male;
   int dist;   // run distance - miles
   int time;   // best run time - minutes
   
-  Runner(String name, int age, boolean male, int dist, int time) {
+  Runner(String name, int age, int dist, int time) {
     this.name = name;
     this.age = age;
-    this.male = male;
     this.dist = dist;
     this.time = time;
   }
   
-  // is this runner male?
-  public boolean isMale() { return this.male; }
+  public int getDist() {
+	  return this.dist;
+  }
   
   // is this runner over 40?
   public boolean isOver40() { return this.age > 40; }
