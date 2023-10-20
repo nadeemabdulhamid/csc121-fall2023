@@ -62,7 +62,6 @@
 ---
 ### Week 6
 **Mon Sep 25:** Mutation
-> *JP*: Chapters 9, 10,  13
 
 **Wed Sep 27:** Mutations and structures
 
@@ -73,7 +72,7 @@
 ### Week 7
 **Mon Oct 2:** Arrays; Imperative linked-lists; Loops (while)
 
-**Wed Oct 4:** More arrays, imperative linked-lists; loops (for)
+**Wed Oct 4:** Exceptions; 
 
 **Fri Oct 6:**   --- MIDTERM EXAM ---
 
@@ -82,64 +81,67 @@
 ### Week 8
 **Mon Oct 9:** ***No Class (Fall Weekend)***
 
-**Wed Oct 11:** Abstracting types: generics
-> Sections 30, 31, 32
+**Wed Oct 11:** More arrays: Partial
 
-**Fri Oct 13:** Generic classes and interfaces
-> Section 33, Intermezzo 5
+**Fri Oct 13:** Parallel arrays, arrays of objects, loops (for)
+> *JP*: Chapters 8, 9, 10,  13
 
 
 ---
 ### Week 9
-**Mon Oct 16:** Abstracting traversals
-> Section 36
+**Mon Oct 16:** File I/O
+> *JP*: Chapter 26
 
-**Wed Oct 18:** Visitor pattern
-> Section 37
+**Wed Oct 18:** Static fields/methods; 
 
-**Fri Oct 20:** Review
-> *JP*: Chapter 11, 12
+**Fri Oct 20:**  Abstracting types: generics
+> Sections 30, 31, 32
+
 
 
 ---
 ### Week 10
-**Mon Oct 23:** Console I/O; Command-line args
+**Mon Oct 23:** Generic classes and interfaces
+> Section 33, Intermezzo 5
 
-**Wed Oct 25:** File I/O
+**Wed Oct 25:** Abstracting traversals
+> Section 36
 
-**Fri Oct 27:** Exceptions
+**Fri Oct 27:** Visitor pattern
+> Section 37
 
 
 ---
 ### Week 11
-**Mon Oct 30:** Arrays; Indexed for loops
+**Mon Oct 30:** Review
+> *JP*: Chapter 11, 12
 
-**Wed Nov 1:** More arrays, strings, loops
+**Wed Nov 1:** ArrayLists; for-each loops
 
-**Fri Nov 3:** 2D arrays
+**Fri Nov 3:** Iterator and iterable
 
 
 ---
 ### Week 12
-**Mon Nov 6:** ArrayList; for-each loops
+**Mon Nov 6:** Sorting - comparison
 
-**Wed Nov 8:** Loop types; aliasing; removal
+**Wed Nov 8:** Collections - hash codes, equality
 
-**Fri Nov 10:** Iterator and iterable
+**Fri Nov 10:** Collections - sets
 
 
 ---
 ### Week 13
-**Mon Nov 13:** Sorting - comparison
+**Mon Nov 13:** 
 
-**Wed Nov 15:** Collections - hash codes, equality
+**Wed Nov 15:** 
 
-**Fri Nov 17:** Collections - sets
+**Fri Nov 17:** 
 
 
 ---
 ### Week 14
-**Mon Nov 20:** TBD
+**Mon Nov 20:** 
 
 **Wed Nov 22:** ***No Class (Thanksgiving)***
 
@@ -147,9 +149,9 @@
 
 
 ---
-**Mon Nov 27:** TBD
+**Mon Nov 27:** 
 
-**Wed Nov 29:** TBD
+**Wed Nov 29:** 
 
 **Fri Dec 1:** Wrap-up
 
