@@ -43,6 +43,7 @@ class ListTests {
 	@Test
 	void test() {
 		assertEquals(21, ficbooks.totalSomething(new PriceProducer() ) );       // ficbooks.totalPrice());
+		
 		assertEquals(26, new ConsLoR(br, new MTLoR()).totalDist());
 	}
 
