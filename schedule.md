@@ -90,7 +90,8 @@
 ---
 ### Week 9
 **Mon Oct 16:** File I/O
-> *JP*: Chapter 26
+> *JP*: Chapter 26; 
+> [Java Notes, Chapter 11](https://math.hws.edu/javanotes/c11/), Sections 1 - 3
 
 **Wed Oct 18:** Static fields/methods; 
 

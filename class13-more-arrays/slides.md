@@ -32,7 +32,7 @@ At the end of this lecture you should
     - Implement and test different realizations of a data type specified by an interface
 
 <!-- paginate: true -->
-<!-- footer: Lecture 11 - Arrays and Loops -->
+<!-- footer: 13 - More Arrays -->
 
 
 
