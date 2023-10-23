@@ -48,7 +48,7 @@ class ListTests {
 		
 		assertEquals(21, ficbooks.totalOf(new PriceProducer()));       // ficbooks.totalPrice());
 		//assertEquals( 130, allrunners.totalOf(  ????  ));
-		//assertEquals( 7, names.totalOf( ????  ));
+		//assertEquals( 7, names.totalOf( ????  ));  // total length of all strings
 	}
 
 }

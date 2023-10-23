@@ -2,7 +2,7 @@
 
 Create an Eclipse project named `hw15-lists`. Copy in the lecture code from Friday, October 20th:
 
-- [lecture code](./code/)
+- [lecture code](./code/subtyping/)
 
 ## Tasks
 
