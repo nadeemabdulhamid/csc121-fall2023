@@ -2,7 +2,7 @@
 
 Refer to the classes in the following directory:
 
-    - [practice](./code/practice/)
+- [practice](./code/practice/)
 
 Complete the task below using your files in your `hw15-lists-generics` Eclipse project.
 
