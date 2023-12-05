@@ -1,5 +1,7 @@
 # Final Topics
 
+- static methods vs instance methods
+
 - Arrays - for loops, while loop, 
 - ArrayList<T>
 - Generics
